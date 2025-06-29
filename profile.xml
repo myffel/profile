@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<AnyConnectProfile xmlns="http://schemas.xmlsoap.org/encoding/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schemas.xmlsoap.org/encoding/ AnyConnectProfile.xsd">
+
+	<ClientInitialization>
+		<UseStartBeforeLogon UserControllable="false">false</UseStartBeforeLogon>
+		<StrictCertificateTrust>false</StrictCertificateTrust>
+		<RestrictPreferenceCaching>false</RestrictPreferenceCaching>
+		<RestrictTunnelProtocols>IPSec</RestrictTunnelProtocols>
+		<BypassDownloader>true</BypassDownloader>
+		<WindowsVPNEstablishment>AllowRemoteUsers</WindowsVPNEstablishment>
+		<CertEnrollmentPin>pinAllowed</CertEnrollmentPin>
+		<CertificateMatch>
+			<KeyUsage>
+				<MatchKey>Digital_Signature</MatchKey>
+			</KeyUsage>
+			<ExtendedKeyUsage>
+				<ExtendedMatchKey>ClientAuth</ExtendedMatchKey>
+			</ExtendedKeyUsage>
+		</CertificateMatch>
+
+		<BackupServerList>
+	            <HostAddress>localhost</HostAddress>
+		</BackupServerList>
+	</ClientInitialization>
+
+	<ServerList>
+	    <HostEntry>
+	            <HostName>00.移动电信推荐用美国，联通推荐日本或美国wy</HostName>
+	            <HostAddress>id.shangins.uk</HostAddress>
+		</HostEntry>
+		<HostEntry>
+	            <HostName>01.🇺🇸美国id</HostName>
+	            <HostAddress>id.shangins.uk</HostAddress>
+		</HostEntry>
+		<HostEntry>
+	            <HostName>02.🇺🇸美国sj3</HostName>
+	            <HostAddress>sj3.shangins.uk</HostAddress>
+		</HostEntry>
+		<HostEntry>
+	            <HostName>03.🇺🇸美国sd - 支持智能分流</HostName>
+	            <HostAddress>sd.shangins.uk</HostAddress>
+		</HostEntry>
+		<HostEntry>
+	            <HostName>04.🇺🇸美国sg</HostName>
+	            <HostAddress>sg.shangins.uk</HostAddress>
+		</HostEntry>
+		<HostEntry>
+	            <HostName>05.🇺🇸美国sg-苏粤豫闽渝适用</HostName>
+	            <HostAddress>137.184.123.213</HostAddress>
+		</HostEntry>
+		<HostEntry>
+	            <HostName>06.🇺🇸美国lax</HostName>
+	            <HostAddress>lax.shangins.uk</HostAddress>
+		</HostEntry>
+		<HostEntry>
+	            <HostName>07.🇺🇸美国oc - 支持GPT</HostName>
+	            <HostAddress>oc.shangins.uk</HostAddress>
+		</HostEntry>
+		<HostEntry>
+	            <HostName>11.🇺🇸美国sf-支持GPT</HostName>
+	            <HostAddress>sf.shangins.uk</HostAddress>
+		</HostEntry>
+		<HostEntry>
+	            <HostName>12.🇺🇸美国sj</HostName>
+	            <HostAddress>sj.shangins.uk</HostAddress>
+		</HostEntry>
+		<HostEntry>
+	            <HostName>13.🇺🇸美国wy联通优化-苏粤豫闽渝适用</HostName>
+	            <HostAddress>172.104.105.143</HostAddress>
+		</HostEntry>
+		<HostEntry>
+	            <HostName>14.🇺🇸美国wy联通优化-支持GPT</HostName>
+	            <HostAddress>wy.shangins.uk</HostAddress>
+		</HostEntry>
+		<HostEntry>
+	            <HostName>15.🇦🇺澳大利亚au - 支持GPT</HostName>
+	            <HostAddress>au.shangins.uk</HostAddress>
+		</HostEntry>
+		<HostEntry>
+	            <HostName>16.🇦🇺澳大利亚au-苏粤豫闽渝适用</HostName>
+	            <HostAddress>170.64.226.223</HostAddress>
+		</HostEntry>
+		<HostEntry>
+	            <HostName>17.🇦🇺澳大利亚wgg - 支持智能分流</HostName>
+	            <HostAddress>wgg.shangins.uk</HostAddress>
+		</HostEntry>
+		<HostEntry>
+	            <HostName>18.🇨🇦加拿大da</HostName>
+	            <HostAddress>da.shangins.uk</HostAddress>
+		</HostEntry>
+		<HostEntry>
+	            <HostName>19.🇯🇵日本1线 - 支持智能分流</HostName>
+	            <HostAddress>edis.shangins.uk</HostAddress>
+		</HostEntry>
+		<HostEntry>
+	            <HostName>20.🇯🇵日本2线</HostName>
+	            <HostAddress>jp.shangins.uk</HostAddress>
+		</HostEntry>
+		<HostEntry>
+	            <HostName>21.🇯🇵日本2线-苏粤豫闽渝适用</HostName>
+	            <HostAddress>139.162.81.144</HostAddress>
+		</HostEntry>
+		<HostEntry>
+	            <HostName>22.🇹🇼台湾1线</HostName>
+	            <HostAddress>tw.shangins.uk</HostAddress>
+		</HostEntry>
+		<HostEntry>
+	            <HostName>23.🇹🇼台湾2线</HostName>
+	            <HostAddress>tw4.shangins.uk</HostAddress>
+		</HostEntry>
+		<HostEntry>
+	            <HostName>24.🇭🇰香港1线</HostName>
+	            <HostAddress>hk.shangins.uk</HostAddress>
+		</HostEntry>
+		<HostEntry>
+	            <HostName>25.🇭🇰香港hk-国内中转</HostName>
+	            <HostAddress>sh.beyongcloud.com:444</HostAddress>
+		</HostEntry>
+		<HostEntry>
+	            <HostName>26.🇭🇰香港2线</HostName>
+	            <HostAddress>hk5.shangins.uk</HostAddress>
+		</HostEntry>
+		<HostEntry>
+	            <HostName>27.🇭🇰香港2线-苏粤豫闽渝适用</HostName>
+	            <HostAddress>46.8.127.234</HostAddress>
+		</HostEntry>
+		<HostEntry>
+	            <HostName>28.🇵🇭菲律宾mn - 支持GPT</HostName>
+	            <HostAddress>mn.shangins.uk</HostAddress>
+		</HostEntry>
+		<HostEntry>
+	            <HostName>29.🇰🇷韩国kr</HostName>
+	            <HostAddress>hg.shangins.uk</HostAddress>
+		</HostEntry>
+		<HostEntry>
+	            <HostName>30.🇸🇬新加坡 - 支持GPT</HostName>
+	            <HostAddress>sgp.shangins.uk</HostAddress>
+		</HostEntry>
+	    <HostEntry>
+	            <HostName>31.🇹🇭泰国ec-支持GPT</HostName>
+	            <HostAddress>ec.shangins.uk</HostAddress>
+		</HostEntry>
+		<HostEntry>
+	            <HostName>32.🇩🇪德国la</HostName>
+	            <HostAddress>la.shangins.uk</HostAddress>
+		</HostEntry>
+		<HostEntry>
+	            <HostName>33.🇫🇷法国cd - 支持GPT</HostName>
+	            <HostAddress>cd.shangins.uk</HostAddress>
+		</HostEntry>
+		<HostEntry>
+	            <HostName>34.🇬🇧英国uk</HostName>
+	            <HostAddress>uk.shangins.uk</HostAddress>
+		</HostEntry>
+		<HostEntry>
+	            <HostName>35.🇲🇾马来西亚 - 支持GPT</HostName>
+	            <HostAddress>hk6.shangins.uk</HostAddress>
+		</HostEntry>
+		<HostEntry>
+	            <HostName>36.🇮🇱以色列 - 支持GPT</HostName>
+	            <HostAddress>il.shangins.uk</HostAddress>
+		</HostEntry>
+		<HostEntry>
+	            <HostName>37.🇧🇷巴西paul - 支持GPT</HostName>
+	            <HostAddress>paul.shangins.uk</HostAddress>
+		</HostEntry>
+		<HostEntry>
+	            <HostName>38.🇮🇳印度sea</HostName>
+	            <HostAddress>sea.shangins.uk</HostAddress>
+		</HostEntry>
+	</ServerList>
+</AnyConnectProfile>
