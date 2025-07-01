@@ -49,12 +49,16 @@
 	            <HostAddress>137.184.123.213</HostAddress>
 		</HostEntry>
 		<HostEntry>
-	            <HostName>06.🇺🇸美国lax</HostName>
-	            <HostAddress>lax.shangins.uk</HostAddress>
+	            <HostName>06.🇺🇸美国sj2</HostName>
+	            <HostAddress>sj2.shangins.uk</HostAddress>
 		</HostEntry>
 		<HostEntry>
 	            <HostName>07.🇺🇸美国oc-支持GPT</HostName>
 	            <HostAddress>oc.shangins.uk</HostAddress>
+		</HostEntry>
+		<HostEntry>
+	            <HostName>08.🇺🇸美国lax</HostName>
+	            <HostAddress>lax.shangins.uk</HostAddress>
 		</HostEntry>
 		<HostEntry>
 	            <HostName>11.🇺🇸美国sf-支持GPT</HostName>
