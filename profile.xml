@@ -29,8 +29,8 @@
 	            <HostAddress>lax.shangins.uk</HostAddress>
 		</HostEntry>
 		<HostEntry>
-	            <HostName>01.🇺🇸美国sj</HostName>
-	            <HostAddress>sj.shangins.uk</HostAddress>
+	            <HostName>01.🇺🇸美国sv - 新服</HostName>
+	            <HostAddress>sv.shangins.uk</HostAddress>
 		</HostEntry>
 		<HostEntry>
 	            <HostName>02.🇺🇸美国sj3</HostName>
@@ -59,6 +59,10 @@
 		<HostEntry>
 	            <HostName>08.🇺🇸美国lax</HostName>
 	            <HostAddress>lax.shangins.uk</HostAddress>
+		</HostEntry>
+		<HostEntry>
+	            <HostName>09.🇺🇸美国sj</HostName>
+	            <HostAddress>sj.shangins.uk</HostAddress>
 		</HostEntry>
 		<HostEntry>
 	            <HostName>10.🇺🇸美国sfo</HostName>
