@@ -61,6 +61,10 @@
 	            <HostAddress>lax.shangins.uk</HostAddress>
 		</HostEntry>
 		<HostEntry>
+	            <HostName>10.🇺🇸美国sfo</HostName>
+	            <HostAddress>sfo.shangins.uk</HostAddress>
+		</HostEntry>
+		<HostEntry>
 	            <HostName>11.🇺🇸美国sf-支持GPT</HostName>
 	            <HostAddress>sf.shangins.uk</HostAddress>
 		</HostEntry>
