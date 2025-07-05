@@ -41,16 +41,16 @@
 	            <HostAddress>sd.shangins.uk</HostAddress>
 		</HostEntry>
 		<HostEntry>
-	            <HostName>04.🇺🇸美国sg</HostName>
-	            <HostAddress>sg.shangins.uk</HostAddress>
+	            <HostName>04.🇺🇸美国sj2</HostName>
+	            <HostAddress>sj2.shangins.uk</HostAddress>
 		</HostEntry>
 		<HostEntry>
 	            <HostName>05.🇺🇸美国sg-苏粤豫闽渝适用</HostName>
 	            <HostAddress>137.184.123.213</HostAddress>
 		</HostEntry>
 		<HostEntry>
-	            <HostName>06.🇺🇸美国sj2</HostName>
-	            <HostAddress>sj2.shangins.uk</HostAddress>
+	            <HostName>06.🇺🇸美国id</HostName>
+	            <HostAddress>id.shangins.uk</HostAddress>
 		</HostEntry>
 		<HostEntry>
 	            <HostName>07.🇺🇸美国oc-支持GPT</HostName>
@@ -73,8 +73,8 @@
 	            <HostAddress>sf.shangins.uk</HostAddress>
 		</HostEntry>
 		<HostEntry>
-	            <HostName>12.🇺🇸美国id</HostName>
-	            <HostAddress>id.shangins.uk</HostAddress>
+	            <HostName>12.🇺🇸美国sg</HostName>
+	            <HostAddress>sg.shangins.uk</HostAddress>
 		</HostEntry>
 		<HostEntry>
 	            <HostName>13.🇺🇸美国wy联通优化-苏粤豫闽渝适用</HostName>
