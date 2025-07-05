@@ -141,32 +141,32 @@
 	            <HostAddress>mn.shangins.uk</HostAddress>
 		</HostEntry>
 		<HostEntry>
-	            <HostName>29.🇰🇷韩国kr</HostName>
+	            <HostName>29.🇲🇾马来西亚 - 支持GPT</HostName>
+	            <HostAddress>hk6.shangins.uk</HostAddress>
+		</HostEntry>
+		<HostEntry>
+	            <HostName>30.🇰🇷韩国kr</HostName>
 	            <HostAddress>hg.shangins.uk</HostAddress>
 		</HostEntry>
 		<HostEntry>
-	            <HostName>30.🇸🇬新加坡 - 支持GPT</HostName>
+	            <HostName>31.🇸🇬新加坡 - 支持GPT</HostName>
 	            <HostAddress>sgp.shangins.uk</HostAddress>
 		</HostEntry>
 	    <HostEntry>
-	            <HostName>31.🇹🇭泰国ec-支持GPT</HostName>
+	            <HostName>32.🇹🇭泰国ec-支持GPT</HostName>
 	            <HostAddress>ec.shangins.uk</HostAddress>
 		</HostEntry>
 		<HostEntry>
-	            <HostName>32.🇩🇪德国la</HostName>
+	            <HostName>33.🇩🇪德国la</HostName>
 	            <HostAddress>la.shangins.uk</HostAddress>
 		</HostEntry>
 		<HostEntry>
-	            <HostName>33.🇫🇷法国cd - 支持GPT</HostName>
+	            <HostName>34.🇫🇷法国cd - 支持GPT</HostName>
 	            <HostAddress>cd.shangins.uk</HostAddress>
 		</HostEntry>
 		<HostEntry>
-	            <HostName>34.🇬🇧英国uk</HostName>
+	            <HostName>35.🇬🇧英国uk</HostName>
 	            <HostAddress>uk.shangins.uk</HostAddress>
-		</HostEntry>
-		<HostEntry>
-	            <HostName>35.🇲🇾马来西亚 - 支持GPT</HostName>
-	            <HostAddress>hk6.shangins.uk</HostAddress>
 		</HostEntry>
 		<HostEntry>
 	            <HostName>36.🇮🇱以色列 - 支持GPT</HostName>
