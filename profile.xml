@@ -59,37 +59,41 @@
 		<HostEntry>
 	            <HostName>08.🇺🇸美国sg-苏粤豫闽渝适用</HostName>
 	            <HostAddress>137.184.123.213</HostAddress>
-		</HostEntry>		
+		</HostEntry>
 		<HostEntry>
-	            <HostName>09.🇺🇸美国wy联通优化-支持GPT</HostName>
+	            <HostName>09.🇺🇸美国kt-支持GPT</HostName>
+	            <HostAddress>kt.shangins.uk</HostAddress>
+		</HostEntry>
+		<HostEntry>
+	            <HostName>10.🇺🇸美国wy联通优化-支持GPT</HostName>
 	            <HostAddress>wy.shangins.uk</HostAddress>
 		</HostEntry>
 		<HostEntry>
-	            <HostName>10.🇺🇸美国wy联通优化-苏粤豫闽渝适用</HostName>
+	            <HostName>11.🇺🇸美国wy联通优化-苏粤豫闽渝适用</HostName>
 	            <HostAddress>172.104.105.143</HostAddress>
 		</HostEntry>
 		<HostEntry>
-	            <HostName>11.🇦🇺澳大利亚wgg - 支持智能分流</HostName>
+	            <HostName>12.🇦🇺澳大利亚wgg - 支持智能分流</HostName>
 	            <HostAddress>wgg.shangins.uk</HostAddress>
 		</HostEntry>		
 		<HostEntry>
-	            <HostName>12.🇯🇵日本-支持智能分流</HostName>
+	            <HostName>13.🇯🇵日本-支持智能分流</HostName>
 	            <HostAddress>edis.shangins.uk</HostAddress>
 		</HostEntry>
 		<HostEntry>
-	            <HostName>13.🇯🇵日本-苏粤豫闽渝适用</HostName>
+	            <HostName>14.🇯🇵日本-苏粤豫闽渝适用</HostName>
 	            <HostAddress>139.162.100.87</HostAddress>
 		</HostEntry>		
 		<HostEntry>
-	            <HostName>14.🇹🇼台湾</HostName>
+	            <HostName>15.🇹🇼台湾</HostName>
 	            <HostAddress>tw4.shangins.uk</HostAddress>
 		</HostEntry>
 		<HostEntry>
-	            <HostName>15.🇭🇰香港</HostName>
+	            <HostName>16.🇭🇰香港</HostName>
 	            <HostAddress>hk.shangins.uk</HostAddress>
 		</HostEntry>
 		<HostEntry>
-	            <HostName>16.🇭🇰香港hk-国内中转</HostName>
+	            <HostName>17.🇭🇰香港hk-国内中转</HostName>
 	            <HostAddress>sh.beyongcloud.com:444</HostAddress>
 		</HostEntry>		
 	</ServerList>
