@@ -98,7 +98,7 @@
 		</HostEntry>
 		<HostEntry>
 	            <HostName>18.🇭🇰香港hk-国内中转</HostName>
-	            <HostAddress>81.68.226.51:444</HostAddress>
+	            <HostAddress>sh.beyongcloud.com:444</HostAddress>
 		</HostEntry>
 		<HostEntry>
 	            <HostName>19.🇹🇭泰国ec-支持GPT</HostName>
@@ -134,5 +134,6 @@
 		</HostEntry>
 	</ServerList>
 </AnyConnectProfile>
+
 
 
