@@ -37,103 +37,100 @@
 	            <HostAddress>sj2.shangins.uk</HostAddress>
 		</HostEntry>
 		<HostEntry>
-	            <HostName>03.🇺🇸美国lax</HostName>
-	            <HostAddress>lax.shangins.uk</HostAddress>
-		</HostEntry>
-		<HostEntry>
-	            <HostName>04.🇺🇸美国sj</HostName>
+	            <HostName>03.🇺🇸美国sj</HostName>
 	            <HostAddress>sj.shangins.uk</HostAddress>
 		</HostEntry>		
 		<HostEntry>
-	            <HostName>05.🇺🇸美国sj-苏粤豫闽渝适用</HostName>
+	            <HostName>04.🇺🇸美国sj-苏粤豫闽渝适用</HostName>
 	            <HostAddress>98.126.213.41</HostAddress>
 		</HostEntry>
 		<HostEntry>
-	            <HostName>06.🇺🇸美国kt-支持GPT</HostName>
+	            <HostName>05.🇺🇸美国kt-支持GPT</HostName>
 	            <HostAddress>kt.shangins.uk</HostAddress>
 		</HostEntry>
 		<HostEntry>
-	            <HostName>07.🇺🇸美国wy联通优化-支持GPT</HostName>
+	            <HostName>06.🇺🇸美国wy联通优化-支持GPT</HostName>
 	            <HostAddress>wy.shangins.uk</HostAddress>
 		</HostEntry>
 		<HostEntry>
-	            <HostName>08.🇺🇸美国wy联通优化-苏粤豫闽渝适用</HostName>
+	            <HostName>07.🇺🇸美国wy联通优化-苏粤豫闽渝适用</HostName>
 	            <HostAddress>172.104.105.143</HostAddress>
 		</HostEntry>
 		<HostEntry>
-	            <HostName>09.🇺🇸美国sg</HostName>
+	            <HostName>08.🇺🇸美国sg</HostName>
 	            <HostAddress>sg.shangins.uk</HostAddress>
 		</HostEntry>
 		<HostEntry>
-	            <HostName>10.🇺🇸美国sf</HostName>
+	            <HostName>9.🇺🇸美国sf</HostName>
 	            <HostAddress>sf.shangins.uk</HostAddress>
 		</HostEntry>
 		<HostEntry>
-	            <HostName>11.🇦🇺澳大利亚wgg - 支持智能分流</HostName>
+	            <HostName>10.🇦🇺澳大利亚wgg - 支持智能分流</HostName>
 	            <HostAddress>wgg.shangins.uk</HostAddress>
 		</HostEntry>
 		<HostEntry>
-	            <HostName>12.🇨🇦加拿大da</HostName>
+	            <HostName>11.🇨🇦加拿大da</HostName>
 	            <HostAddress>da.shangins.uk</HostAddress>
 		</HostEntry>
 		<HostEntry>
-	            <HostName>13.🇲🇽墨西哥ion</HostName>
+	            <HostName>12.🇲🇽墨西哥ion</HostName>
 	            <HostAddress>ion.shangins.uk</HostAddress>
 		</HostEntry>
 		<HostEntry>
-	            <HostName>14.🇯🇵日本-支持智能分流</HostName>
+	            <HostName>13.🇯🇵日本-支持智能分流</HostName>
 	            <HostAddress>edis.shangins.uk</HostAddress>
 		</HostEntry>
 		<HostEntry>
-	            <HostName>15.🇯🇵日本-苏粤豫闽渝适用</HostName>
+	            <HostName>14.🇯🇵日本-苏粤豫闽渝适用</HostName>
 	            <HostAddress>139.162.100.87</HostAddress>
 		</HostEntry>		
 		<HostEntry>
-	            <HostName>16.🇹🇼台湾</HostName>
+	            <HostName>15.🇹🇼台湾</HostName>
 	            <HostAddress>tw4.shangins.uk</HostAddress>
 		</HostEntry>
 		<HostEntry>
-	            <HostName>17.🇭🇰香港</HostName>
+	            <HostName>16.🇭🇰香港</HostName>
 	            <HostAddress>hk.shangins.uk</HostAddress>
 		</HostEntry>
 		<HostEntry>
-	            <HostName>18.🇭🇰香港hk-国内中转</HostName>
+	            <HostName>17.🇭🇰香港hk-国内中转</HostName>
 	            <HostAddress>sh.beyongcloud.com:444</HostAddress>
 		</HostEntry>
 		<HostEntry>
-	            <HostName>19.🇹🇭泰国ec-支持GPT</HostName>
+	            <HostName>18.🇹🇭泰国ec-支持GPT</HostName>
 	            <HostAddress>ec.shangins.uk</HostAddress>
 		</HostEntry>
 		<HostEntry>
-	            <HostName>20.🇵🇭菲律宾mn - 支持GPT</HostName>
+	            <HostName>19.🇵🇭菲律宾mn - 支持GPT</HostName>
 	            <HostAddress>mn.shangins.uk</HostAddress>
 		</HostEntry>
 		<HostEntry>
-	            <HostName>21.🇲🇾马来西亚 - 支持GPT</HostName>
+	            <HostName>20.🇲🇾马来西亚 - 支持GPT</HostName>
 	            <HostAddress>hk6.shangins.uk</HostAddress>
 		</HostEntry>
 		<HostEntry>
-	            <HostName>22.🇰🇷韩国kr</HostName>
+	            <HostName>21.🇰🇷韩国kr</HostName>
 	            <HostAddress>hg.shangins.uk</HostAddress>
 		</HostEntry>
 		<HostEntry>
-	            <HostName>23.🇸🇬新加坡 - 支持GPT</HostName>
+	            <HostName>22.🇸🇬新加坡 - 支持GPT</HostName>
 	            <HostAddress>sgp.shangins.uk</HostAddress>
 		</HostEntry>
 		<HostEntry>
-	            <HostName>24.🇩🇪德国la</HostName>
+	            <HostName>23.🇩🇪德国la</HostName>
 	            <HostAddress>la.shangins.uk</HostAddress>
 		</HostEntry>
 		<HostEntry>
-	            <HostName>25.🇫🇷法国cd - 支持GPT</HostName>
+	            <HostName>24.🇫🇷法国cd - 支持GPT</HostName>
 	            <HostAddress>cd.shangins.uk</HostAddress>
 		</HostEntry>
 		<HostEntry>
-	            <HostName>26.🇬🇧英国uk</HostName>
+	            <HostName>25.🇬🇧英国uk</HostName>
 	            <HostAddress>uk.shangins.uk</HostAddress>
 		</HostEntry>
 	</ServerList>
 </AnyConnectProfile>
+
 
 
 
