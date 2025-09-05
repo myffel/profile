@@ -89,9 +89,9 @@
 	            <HostAddress>hk.shangins.uk</HostAddress>
 		</HostEntry>
 		<HostEntry>
-	            <HostName>16.🇹🇭泰国ec-支持GPT</HostName>
-	            <HostAddress>ec.shangins.uk</HostAddress>
-		</HostEntry>
+	            <HostName>16.🇸🇬新加坡 - 国内中转</HostName>
+	            <HostAddress>sh.shangins.uk:444</HostAddress>
+		</HostEntry>		
 		<HostEntry>
 	            <HostName>17.🇵🇭菲律宾mn - 支持GPT</HostName>
 	            <HostAddress>mn.shangins.uk</HostAddress>
@@ -105,8 +105,8 @@
 	            <HostAddress>hg.shangins.uk</HostAddress>
 		</HostEntry>
 		<HostEntry>
-	            <HostName>20.🇸🇬新加坡 - 国内中转</HostName>
-	            <HostAddress>sh.shangins.uk:444</HostAddress>
+	            <HostName>20.🇹🇭泰国ec-支持GPT</HostName>
+	            <HostAddress>ec.shangins.uk</HostAddress>
 		</HostEntry>
 		<HostEntry>
 	            <HostName>21.🇩🇪德国la</HostName>
@@ -122,6 +122,7 @@
 		</HostEntry>
 	</ServerList>
 </AnyConnectProfile>
+
 
 
 
