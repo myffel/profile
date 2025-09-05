@@ -90,7 +90,7 @@
 		</HostEntry>
 		<HostEntry>
 	            <HostName>16.🇭🇰香港hk-国内中转</HostName>
-	            <HostAddress>sh.beyongcloud.com:444</HostAddress>
+	            <HostAddress>sh.shangins.uk:444</HostAddress>
 		</HostEntry>
 		<HostEntry>
 	            <HostName>17.🇹🇭泰国ec-支持GPT</HostName>
@@ -126,6 +126,7 @@
 		</HostEntry>
 	</ServerList>
 </AnyConnectProfile>
+
 
 
 
