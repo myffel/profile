@@ -35,15 +35,7 @@
 		<HostEntry>
 	            <HostName>02.🇺🇸美国sj2</HostName>
 	            <HostAddress>sj2.shangins.uk</HostAddress>
-		</HostEntry>
-		<HostEntry>
-	            <HostName>03.🇺🇸美国sj</HostName>
-	            <HostAddress>sj.shangins.uk</HostAddress>
 		</HostEntry>		
-		<HostEntry>
-	            <HostName>04.🇺🇸美国sj-苏粤豫闽渝适用</HostName>
-	            <HostAddress>98.126.213.41</HostAddress>
-		</HostEntry>
 		<HostEntry>
 	            <HostName>05.🇺🇸美国kt-支持GPT</HostName>
 	            <HostAddress>kt.shangins.uk</HostAddress>
@@ -122,6 +114,7 @@
 		</HostEntry>
 	</ServerList>
 </AnyConnectProfile>
+
 
 
 
