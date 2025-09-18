@@ -61,8 +61,8 @@
 	            <HostAddress>kt.shangins.uk</HostAddress>
 		</HostEntry>
 		<HostEntry>
-	            <HostName>09.🇦🇺澳大利亚wgg - 支持智能分流</HostName>
-	            <HostAddress>wgg.shangins.uk</HostAddress>
+	            <HostName>09.🇦🇺澳大利亚au</HostName>
+	            <HostAddress>au.shangins.uk</HostAddress>
 		</HostEntry>
 		<HostEntry>
 	            <HostName>10.🇨🇦加拿大da</HostName>
@@ -122,6 +122,7 @@
 		</HostEntry>
 	</ServerList>
 </AnyConnectProfile>
+
 
 
 
