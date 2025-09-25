@@ -26,15 +26,15 @@
 	<ServerList>
 	    <HostEntry>
 	            <HostName>00.移动电信推荐用美国，联通推荐日本或美国wy</HostName>
-	            <HostAddress>sj3.shangins.uk</HostAddress>
+	            <HostAddress>lax.shangins.uk</HostAddress>
 		</HostEntry>	
 		<HostEntry>
 	            <HostName>01.🇺🇸美国sj3</HostName>
 	            <HostAddress>sj3.shangins.uk</HostAddress>
 		</HostEntry>		
 		<HostEntry>
-	            <HostName>02.🇺🇸美国sj2</HostName>
-	            <HostAddress>sj2.shangins.uk</HostAddress>
+	            <HostName>02.🇺🇸美国lax</HostName>
+	            <HostAddress>lax.shangins.uk</HostAddress>
 		</HostEntry>
 		<HostEntry>
 	            <HostName>03.🇺🇸美国sj</HostName>
@@ -57,8 +57,8 @@
 	            <HostAddress>sg.shangins.uk</HostAddress>
 		</HostEntry>		
 		<HostEntry>
-	            <HostName>08.🇺🇸美国kt-支持GPT</HostName>
-	            <HostAddress>kt.shangins.uk</HostAddress>
+	            <HostName>08.🇺🇸美国sj2</HostName>
+	            <HostAddress>sj2.shangins.uk</HostAddress>
 		</HostEntry>
 		<HostEntry>
 	            <HostName>09.🇦🇺澳大利亚au</HostName>
@@ -97,7 +97,7 @@
 	            <HostAddress>sh.shangins.uk:444</HostAddress>
 		</HostEntry>				
 		<HostEntry>
-	            <HostName>18.🇲🇾马来西亚 - 支持GPT</HostName>
+	            <HostName>18.🇲🇾马来西亚</HostName>
 	            <HostAddress>hk6.shangins.uk</HostAddress>
 		</HostEntry>
 		<HostEntry>
@@ -105,7 +105,7 @@
 	            <HostAddress>hg.shangins.uk</HostAddress>
 		</HostEntry>
 		<HostEntry>
-	            <HostName>20.🇹🇭泰国ec-支持GPT</HostName>
+	            <HostName>20.🇹🇭泰国ec</HostName>
 	            <HostAddress>ec.shangins.uk</HostAddress>
 		</HostEntry>
 		<HostEntry>
@@ -113,7 +113,7 @@
 	            <HostAddress>la.shangins.uk</HostAddress>
 		</HostEntry>
 		<HostEntry>
-	            <HostName>22.🇫🇷法国cd - 支持GPT</HostName>
+	            <HostName>22.🇫🇷法国cd</HostName>
 	            <HostAddress>cd.shangins.uk</HostAddress>
 		</HostEntry>
 		<HostEntry>
@@ -122,6 +122,7 @@
 		</HostEntry>
 	</ServerList>
 </AnyConnectProfile>
+
 
 
 
