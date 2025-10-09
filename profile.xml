@@ -33,10 +33,6 @@
 	            <HostAddress>sj3.shangins.uk</HostAddress>
 		</HostEntry>		
 		<HostEntry>
-	            <HostName>02.🇺🇸美国lax</HostName>
-	            <HostAddress>lax.shangins.uk</HostAddress>
-		</HostEntry>
-		<HostEntry>
 	            <HostName>03.🇺🇸美国sj</HostName>
 	            <HostAddress>sj.shangins.uk</HostAddress>
 		</HostEntry>		
@@ -118,6 +114,7 @@
 		</HostEntry>
 	</ServerList>
 </AnyConnectProfile>
+
 
 
 
