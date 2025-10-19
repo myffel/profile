@@ -71,7 +71,11 @@
 		<HostEntry>
 	            <HostName>11.🇯🇵日本</HostName>
 	            <HostAddress>edis.shangins.uk</HostAddress>
-		</HostEntry>		
+		</HostEntry>
+		<HostEntry>
+	            <HostName>12.🇹🇼台湾</HostName>
+	            <HostAddress>tw4.shangins.uk</HostAddress>
+		</HostEntry>
 		<HostEntry>
 	            <HostName>13.🇭🇰香港</HostName>
 	            <HostAddress>hk.shangins.uk</HostAddress>
@@ -114,6 +118,7 @@
 		</HostEntry>
 	</ServerList>
 </AnyConnectProfile>
+
 
 
 
