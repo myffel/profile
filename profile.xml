@@ -81,8 +81,8 @@
 	            <HostAddress>hk.shangins.uk</HostAddress>
 		</HostEntry>
 		<HostEntry>
-	            <HostName>14.🇭🇰香港-苏粤豫闽渝适用</HostName>
-	            <HostAddress>46.8.127.234</HostAddress>
+	            <HostName>14.🇭🇰香港2线</HostName>
+	            <HostAddress>hk5.shangins.uk</HostAddress>
 		</HostEntry>	
 		<HostEntry>
 	            <HostName>15.🇵🇭菲律宾</HostName>
@@ -118,6 +118,7 @@
 		</HostEntry>
 	</ServerList>
 </AnyConnectProfile>
+
 
 
 
