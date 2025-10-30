@@ -69,10 +69,6 @@
 	            <HostAddress>ion.shangins.uk</HostAddress>
 		</HostEntry>
 		<HostEntry>
-	            <HostName>11.🇯🇵日本</HostName>
-	            <HostAddress>edis.shangins.uk</HostAddress>
-		</HostEntry>
-		<HostEntry>
 	            <HostName>12.🇹🇼台湾</HostName>
 	            <HostAddress>tw4.shangins.uk</HostAddress>
 		</HostEntry>
@@ -118,6 +114,7 @@
 		</HostEntry>
 	</ServerList>
 </AnyConnectProfile>
+
 
 
 
