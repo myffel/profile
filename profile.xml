@@ -118,10 +118,11 @@
 		</HostEntry>
 		<HostEntry>
 	            <HostName>22.🇬🇧英国uk</HostName>
-	            <HostAddress>kt.shangins.uk</HostAddress>
+	            <HostAddress>uk.shangins.uk</HostAddress>
 		</HostEntry>
 	</ServerList>
 </AnyConnectProfile>
+
 
 
 
