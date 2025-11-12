@@ -33,33 +33,29 @@
 	            <HostAddress>sj3.shangins.uk</HostAddress>
 		</HostEntry>
 		<HostEntry>
-	            <HostName>01.🇺🇸美国sj3-苏粤豫闽渝适用</HostName>
+	            <HostName>02.🇺🇸美国sj3-苏粤豫闽渝适用</HostName>
 	            <HostAddress>137.175.81.50</HostAddress>
 		</HostEntry>
 		<HostEntry>
-	            <HostName>02.🇺🇸美国lax</HostName>
+	            <HostName>03.🇺🇸美国lax</HostName>
 	            <HostAddress>lax.shangins.uk</HostAddress>
 		</HostEntry>
 		<HostEntry>
-	            <HostName>03.🇺🇸美国sj</HostName>
+	            <HostName>04.🇺🇸美国sj</HostName>
 	            <HostAddress>sj.shangins.uk</HostAddress>
 		</HostEntry>		
 		<HostEntry>
-	            <HostName>04.🇺🇸美国wy联通优化-支持GPT</HostName>
+	            <HostName>05.🇺🇸美国wy联通优化-支持GPT</HostName>
 	            <HostAddress>wy.shangins.uk</HostAddress>
 		</HostEntry>
 		<HostEntry>
-	            <HostName>05.🇺🇸美国wy联通优化-苏粤豫闽渝适用</HostName>
+	            <HostName>06.🇺🇸美国wy联通优化-苏粤豫闽渝适用</HostName>
 	            <HostAddress>172.104.105.143</HostAddress>
 		</HostEntry>
 		<HostEntry>
-	            <HostName>06.🇺🇸美国sg</HostName>
+	            <HostName>07.🇺🇸美国sg</HostName>
 	            <HostAddress>sg.shangins.uk</HostAddress>
-		</HostEntry>		
-		<HostEntry>
-	            <HostName>07.🇺🇸美国sj2</HostName>
-	            <HostAddress>sj2.shangins.uk</HostAddress>
-		</HostEntry>
+		</HostEntry>			
 		<HostEntry>
 	            <HostName>08.🇦🇺澳大利亚au</HostName>
 	            <HostAddress>au.shangins.uk</HostAddress>
@@ -122,6 +118,7 @@
 		</HostEntry>
 	</ServerList>
 </AnyConnectProfile>
+
 
 
 
