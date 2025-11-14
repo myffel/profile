@@ -114,10 +114,11 @@
 		</HostEntry>
 		<HostEntry>
 	            <HostName>22.🇬🇧英国uk</HostName>
-	            <HostAddress>uk.shangins.uk</HostAddress>
+	            <HostAddress>kt.shangins.uk</HostAddress>
 		</HostEntry>
 	</ServerList>
 </AnyConnectProfile>
+
 
 
 
