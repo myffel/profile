@@ -82,7 +82,7 @@
 		</HostEntry>
 		<HostEntry>
 	            <HostName>14.🇭🇰香港2线 - 空闲</HostName>
-	            <HostAddress>hk5.shangins.uk</HostAddress>
+	            <HostAddress>hk7.shangins.uk</HostAddress>
 		</HostEntry>	
 		<HostEntry>
 	            <HostName>15.🇵🇭菲律宾</HostName>
@@ -118,6 +118,7 @@
 		</HostEntry>
 	</ServerList>
 </AnyConnectProfile>
+
 
 
 
