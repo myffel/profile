@@ -26,7 +26,7 @@
 	<ServerList>
 	    <HostEntry>
 	            <HostName>00.移动电信推荐用美国，联通推荐日本或美国wy</HostName>
-	            <HostAddress>sj3.shangins.uk</HostAddress>
+	            <HostAddress>lax.shangins.uk</HostAddress>
 		</HostEntry>
 		<HostEntry>
 	            <HostName>01.🇺🇸美国sj3</HostName>
@@ -81,7 +81,7 @@
 	            <HostAddress>hk.shangins.uk</HostAddress>
 		</HostEntry>
 		<HostEntry>
-	            <HostName>14.🇭🇰香港2线</HostName>
+	            <HostName>14.🇭🇰香港2线 - 空闲</HostName>
 	            <HostAddress>hk5.shangins.uk</HostAddress>
 		</HostEntry>	
 		<HostEntry>
@@ -118,6 +118,7 @@
 		</HostEntry>
 	</ServerList>
 </AnyConnectProfile>
+
 
 
 
