@@ -79,45 +79,38 @@
 		<HostEntry>
 	            <HostName>13.🇭🇰香港</HostName>
 	            <HostAddress>hk.shangins.uk</HostAddress>
-		</HostEntry>
+		</HostEntry>		
 		<HostEntry>
-	            <HostName>14.🇭🇰香港2线 - 空闲</HostName>
-	            <HostAddress>hk7.shangins.uk</HostAddress>
-		</HostEntry>	
-		<HostEntry>
-	            <HostName>15.🇵🇭菲律宾</HostName>
+	            <HostName>14.🇵🇭菲律宾</HostName>
 	            <HostAddress>mn.shangins.uk</HostAddress>
 		</HostEntry>
 		<HostEntry>
-	            <HostName>16.🇸🇬新加坡 - 国内中转</HostName>
+	            <HostName>15.🇸🇬新加坡 - 国内中转</HostName>
 	            <HostAddress>sh.shangins.uk:444</HostAddress>
 		</HostEntry>				
 		<HostEntry>
-	            <HostName>17.🇲🇾马来西亚</HostName>
+	            <HostName>16.🇲🇾马来西亚</HostName>
 	            <HostAddress>hk6.shangins.uk</HostAddress>
 		</HostEntry>
 		<HostEntry>
-	            <HostName>18.🇰🇷韩国kr</HostName>
+	            <HostName>17.🇰🇷韩国kr</HostName>
 	            <HostAddress>hg.shangins.uk</HostAddress>
-		</HostEntry>
+		</HostEntry>		
 		<HostEntry>
-	            <HostName>19.🇹🇭泰国ec</HostName>
-	            <HostAddress>ec.shangins.uk</HostAddress>
-		</HostEntry>
-		<HostEntry>
-	            <HostName>20.🇩🇪德国la</HostName>
+	            <HostName>18.🇩🇪德国la</HostName>
 	            <HostAddress>la.shangins.uk</HostAddress>
 		</HostEntry>
 		<HostEntry>
-	            <HostName>21.🇫🇷法国cd</HostName>
+	            <HostName>19.🇫🇷法国cd</HostName>
 	            <HostAddress>cd.shangins.uk</HostAddress>
 		</HostEntry>
 		<HostEntry>
-	            <HostName>22.🇬🇧英国uk</HostName>
+	            <HostName>20.🇬🇧英国uk</HostName>
 	            <HostAddress>kt.shangins.uk</HostAddress>
 		</HostEntry>
 	</ServerList>
 </AnyConnectProfile>
+
 
 
 
