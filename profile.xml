@@ -85,8 +85,8 @@
 	            <HostAddress>mn.shangins.uk</HostAddress>
 		</HostEntry>
 		<HostEntry>
-	            <HostName>15.🇸🇬新加坡 - 国内中转</HostName>
-	            <HostAddress>sh.shangins.uk:444</HostAddress>
+	            <HostName>15.🇸🇬新加坡</HostName>
+	            <HostAddress>hk7.shangins.uk</HostAddress>
 		</HostEntry>				
 		<HostEntry>
 	            <HostName>16.🇲🇾马来西亚</HostName>
@@ -110,6 +110,7 @@
 		</HostEntry>
 	</ServerList>
 </AnyConnectProfile>
+
 
 
 
