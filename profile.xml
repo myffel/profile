@@ -89,35 +89,40 @@
 	            <HostAddress>hk6.shangins.uk</HostAddress>
 		</HostEntry>
 		<HostEntry>
-	            <HostName>15.🇰🇷韩国kr</HostName>
+	            <HostName>15.🇰🇷韩国</HostName>
 	            <HostAddress>hg.shangins.uk</HostAddress>
 		</HostEntry>
 		<HostEntry>
-	            <HostName>16.🇦🇺澳大利亚au</HostName>
+	            <HostName>16.🇦🇺澳大利亚</HostName>
 	            <HostAddress>au.shangins.uk</HostAddress>
 		</HostEntry>
 		<HostEntry>
-	            <HostName>17.🇨🇦加拿大da</HostName>
+	            <HostName>17.🇨🇦加拿大</HostName>
 	            <HostAddress>da.shangins.uk</HostAddress>
 		</HostEntry>
 		<HostEntry>
-	            <HostName>18.🇲🇽墨西哥ion</HostName>
+	            <HostName>18.🇲🇽墨西哥</HostName>
 	            <HostAddress>ion.shangins.uk</HostAddress>
 		</HostEntry>
 		<HostEntry>
-	            <HostName>19.🇩🇪德国la</HostName>
+	            <HostName>19.🇩🇪德国</HostName>
 	            <HostAddress>la.shangins.uk</HostAddress>
 		</HostEntry>
 		<HostEntry>
-	            <HostName>20.🇫🇷法国cd</HostName>
+	            <HostName>20.🇫🇷法国</HostName>
 	            <HostAddress>cd.shangins.uk</HostAddress>
 		</HostEntry>
 		<HostEntry>
-	            <HostName>21.🇬🇧英国uk</HostName>
+	            <HostName>21.🇬🇧英国</HostName>
 	            <HostAddress>kt.shangins.uk</HostAddress>
+		</HostEntry>
+		<HostEntry>
+	            <HostName>22.🇹🇭泰国</HostName>
+	            <HostAddress>ec.shangins.uk</HostAddress>
 		</HostEntry>
 	</ServerList>
 </AnyConnectProfile>
+
 
 
 
