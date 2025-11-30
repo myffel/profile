@@ -33,7 +33,7 @@
 	            <HostAddress>sj3.shangins.uk</HostAddress>
 		</HostEntry>
 		<HostEntry>
-	            <HostName>01.🇺🇸美国sj3-苏粤豫闽渝适用</HostName>
+	            <HostName>01.🇺🇸美国sj3-苏粤闽适用</HostName>
 	            <HostAddress>137.175.81.50</HostAddress>
 		</HostEntry>
 		<HostEntry>
@@ -49,7 +49,7 @@
 	            <HostAddress>wy.shangins.uk</HostAddress>
 		</HostEntry>
 		<HostEntry>
-	            <HostName>05.🇺🇸美国wy联通优化-苏粤豫闽渝适用</HostName>
+	            <HostName>05.🇺🇸美国wy联通优化-苏粤闽适用</HostName>
 	            <HostAddress>172.104.105.143</HostAddress>
 		</HostEntry>
 		<HostEntry>
@@ -61,7 +61,7 @@
 	            <HostAddress>edis.shangins.uk</HostAddress>
 		</HostEntry>
 		<HostEntry>
-	            <HostName>08.🇯🇵日本-苏粤豫闽渝适用</HostName>
+	            <HostName>08.🇯🇵日本-苏粤闽适用</HostName>
 	            <HostAddress>172.105.192.174</HostAddress>
 		</HostEntry>
 		<HostEntry>
@@ -73,9 +73,17 @@
 	            <HostAddress>tw4.shangins.uk</HostAddress>
 		</HostEntry>
 		<HostEntry>
+	            <HostName>10.🇹🇼台湾-苏粤闽适用</HostName>
+	            <HostAddress>207.56.137.142</HostAddress>
+		</HostEntry>
+		<HostEntry>
 	            <HostName>11.🇭🇰香港</HostName>
 	            <HostAddress>hk.shangins.uk</HostAddress>
-		</HostEntry>		
+		</HostEntry>
+		<HostEntry>
+	            <HostName>11.🇭🇰香港-苏粤闽适用</HostName>
+	            <HostAddress>207.56.18.33</HostAddress>
+		</HostEntry>
 		<HostEntry>
 	            <HostName>12.🇵🇭菲律宾</HostName>
 	            <HostAddress>mn.shangins.uk</HostAddress>
@@ -122,6 +130,7 @@
 		</HostEntry>
 	</ServerList>
 </AnyConnectProfile>
+
 
 
 
