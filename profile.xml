@@ -125,11 +125,16 @@
 	            <HostAddress>kt.shangins.uk</HostAddress>
 		</HostEntry>
 		<HostEntry>
-	            <HostName>22.🇹🇭泰国</HostName>
+	            <HostName>22.🇮🇩印度尼西亚</HostName>
+	            <HostAddress>hk8.shangins.uk</HostAddress>
+		</HostEntry>
+		<HostEntry>
+	            <HostName>23.🇹🇭泰国</HostName>
 	            <HostAddress>ec.shangins.uk</HostAddress>
 		</HostEntry>
 	</ServerList>
 </AnyConnectProfile>
+
 
 
 
