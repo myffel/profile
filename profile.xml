@@ -107,33 +107,30 @@
 		<HostEntry>
 	            <HostName>17.🇨🇦加拿大</HostName>
 	            <HostAddress>da.shangins.uk</HostAddress>
-		</HostEntry>
+		</HostEntry>		
 		<HostEntry>
-	            <HostName>18.🇲🇽墨西哥</HostName>
-	            <HostAddress>ion.shangins.uk</HostAddress>
-		</HostEntry>
-		<HostEntry>
-	            <HostName>19.🇩🇪德国</HostName>
+	            <HostName>18.🇩🇪德国</HostName>
 	            <HostAddress>la.shangins.uk</HostAddress>
 		</HostEntry>
 		<HostEntry>
-	            <HostName>20.🇫🇷法国</HostName>
+	            <HostName>19.🇫🇷法国</HostName>
 	            <HostAddress>cd.shangins.uk</HostAddress>
 		</HostEntry>
 		<HostEntry>
-	            <HostName>21.🇬🇧英国</HostName>
+	            <HostName>20.🇬🇧英国</HostName>
 	            <HostAddress>kt.shangins.uk</HostAddress>
 		</HostEntry>
 		<HostEntry>
-	            <HostName>22.🇮🇩印度尼西亚</HostName>
+	            <HostName>21.🇮🇩印度尼西亚</HostName>
 	            <HostAddress>hk8.shangins.uk</HostAddress>
 		</HostEntry>
 		<HostEntry>
-	            <HostName>23.🇹🇭泰国</HostName>
+	            <HostName>22.🇹🇭泰国</HostName>
 	            <HostAddress>ec.shangins.uk</HostAddress>
 		</HostEntry>
 	</ServerList>
 </AnyConnectProfile>
+
 
 
 
