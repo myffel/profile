@@ -26,19 +26,19 @@
 	<ServerList>
 	    <HostEntry>
 	            <HostName>00.移动电信推荐用美国，联通推荐日本或美国wy</HostName>
-	            <HostAddress>lax.shangins.uk</HostAddress>
+	            <HostAddress>sv.shangins.uk</HostAddress>
 		</HostEntry>
 		<HostEntry>
-	            <HostName>01.🇺🇸美国sj3</HostName>
-	            <HostAddress>sj3.shangins.uk</HostAddress>
+	            <HostName>01.🇺🇸美国oc</HostName>
+	            <HostAddress>oc.shangins.uk</HostAddress>
 		</HostEntry>
 		<HostEntry>
-	            <HostName>01.🇺🇸美国sj3-苏粤闽适用</HostName>
-	            <HostAddress>137.175.81.50</HostAddress>
+	            <HostName>01.🇺🇸美国oc-苏粤闽适用</HostName>
+	            <HostAddress>107.149.146.82</HostAddress>
 		</HostEntry>
 		<HostEntry>
-	            <HostName>02.🇺🇸美国lax</HostName>
-	            <HostAddress>lax.shangins.uk</HostAddress>
+	            <HostName>02.🇺🇸美国sv</HostName>
+	            <HostAddress>sv.shangins.uk</HostAddress>
 		</HostEntry>
 		<HostEntry>
 	            <HostName>03.🇺🇸美国sj</HostName>
@@ -130,6 +130,7 @@
 		</HostEntry>
 	</ServerList>
 </AnyConnectProfile>
+
 
 
 
