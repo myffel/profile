@@ -97,7 +97,7 @@
 	            <HostAddress>hk6.shangins.uk</HostAddress>
 		</HostEntry>
 		<HostEntry>
-	            <HostName>15.🇰🇷韩国</HostName>
+	            <HostName>15.🇰🇷韩国-联通移动适用</HostName>
 	            <HostAddress>hg.shangins.uk</HostAddress>
 		</HostEntry>
 		<HostEntry>
@@ -130,6 +130,7 @@
 		</HostEntry>
 	</ServerList>
 </AnyConnectProfile>
+
 
 
 
