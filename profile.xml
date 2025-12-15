@@ -45,7 +45,7 @@
 	            <HostAddress>sj.shangins.uk</HostAddress>
 		</HostEntry>		
 		<HostEntry>
-	            <HostName>04.🇺🇸美国wy联通优化-支持GPT</HostName>
+	            <HostName>04.🇺🇸美国wy联通优化</HostName>
 	            <HostAddress>wy.shangins.uk</HostAddress>
 		</HostEntry>
 		<HostEntry>
@@ -130,6 +130,7 @@
 		</HostEntry>
 	</ServerList>
 </AnyConnectProfile>
+
 
 
 
