@@ -26,7 +26,7 @@
 	<ServerList>
 	    <HostEntry>
 	            <HostName>00.移动电信推荐用美国，联通推荐日本或美国wy</HostName>
-	            <HostAddress>sv.shangins.uk</HostAddress>
+	            <HostAddress>oc.shangins.uk</HostAddress>
 		</HostEntry>
 		<HostEntry>
 	            <HostName>01.🇺🇸美国oc</HostName>
@@ -126,6 +126,7 @@
 		</HostEntry>
 	</ServerList>
 </AnyConnectProfile>
+
 
 
 
