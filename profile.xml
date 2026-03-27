@@ -63,13 +63,9 @@
 		<HostEntry>
 	            <HostName>08.🇯🇵日本-苏粤闽适用</HostName>
 	            <HostAddress>172.105.192.174</HostAddress>
-		</HostEntry>
+		</HostEntry>		
 		<HostEntry>
-	            <HostName>09.🇯🇵日本2-国内中转三网优化</HostName>
-	            <HostAddress>sh.shangins.uk:444</HostAddress>
-		</HostEntry>
-		<HostEntry>
-	            <HostName>10.🇹🇼台湾</HostName>
+	            <HostName>09.🇹🇼台湾</HostName>
 	            <HostAddress>tw4.shangins.uk</HostAddress>
 		</HostEntry>
 		<HostEntry>
