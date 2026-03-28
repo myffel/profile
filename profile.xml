@@ -57,55 +57,59 @@
 	            <HostAddress>172.104.105.143</HostAddress>
 		</HostEntry>				
 		<HostEntry>
-	            <HostName>07.🇯🇵日本</HostName>
+	            <HostName>07.🇯🇵日本1-联通移动适用</HostName>
 	            <HostAddress>edis.shangins.uk</HostAddress>
 		</HostEntry>
 		<HostEntry>
-	            <HostName>08.🇯🇵日本-苏粤闽适用</HostName>
+	            <HostName>08.🇯🇵日本1-苏粤闽适用</HostName>
 	            <HostAddress>172.105.192.174</HostAddress>
-		</HostEntry>		
+		</HostEntry>
 		<HostEntry>
-	            <HostName>09.🇹🇼台湾</HostName>
+	            <HostName>09.🇯🇵日本2-联通移动适用</HostName>
+	            <HostAddress>jp2.shangins.uk</HostAddress>
+		</HostEntry>
+		<HostEntry>
+	            <HostName>10.🇹🇼台湾</HostName>
 	            <HostAddress>tw4.shangins.uk</HostAddress>
 		</HostEntry>
 		<HostEntry>
-	            <HostName>10.🇹🇼台湾-苏粤闽适用</HostName>
+	            <HostName>11.🇹🇼台湾-苏粤闽适用</HostName>
 	            <HostAddress>207.56.137.142</HostAddress>
 		</HostEntry>
 		<HostEntry>
-	            <HostName>11.🇭🇰香港</HostName>
+	            <HostName>12.🇭🇰香港</HostName>
 	            <HostAddress>hk.shangins.uk</HostAddress>
 		</HostEntry>
 		<HostEntry>
-	            <HostName>11.🇭🇰香港-苏粤闽适用</HostName>
+	            <HostName>13.🇭🇰香港-苏粤闽适用</HostName>
 	            <HostAddress>207.56.18.33</HostAddress>
 		</HostEntry>		
 		<HostEntry>
-	            <HostName>12.🇸🇬新加坡</HostName>
+	            <HostName>14.🇸🇬新加坡</HostName>
 	            <HostAddress>hk7.shangins.uk</HostAddress>
 		</HostEntry>				
 		<HostEntry>
-	            <HostName>13.🇲🇾马来西亚</HostName>
+	            <HostName>15.🇲🇾马来西亚</HostName>
 	            <HostAddress>hk6.shangins.uk</HostAddress>
 		</HostEntry>
 		<HostEntry>
-	            <HostName>14.🇰🇷韩国-联通移动适用</HostName>
+	            <HostName>16.🇰🇷韩国-联通移动适用</HostName>
 	            <HostAddress>hg.shangins.uk</HostAddress>
 		</HostEntry>
 		<HostEntry>
-	            <HostName>15.🇦🇺澳大利亚</HostName>
+	            <HostName>17.🇦🇺澳大利亚</HostName>
 	            <HostAddress>au.shangins.uk</HostAddress>
 		</HostEntry>
 		<HostEntry>
-	            <HostName>16.🇨🇦加拿大</HostName>
+	            <HostName>18.🇨🇦加拿大</HostName>
 	            <HostAddress>da.shangins.uk</HostAddress>
 		</HostEntry>		
 		<HostEntry>
-	            <HostName>17.🇬🇧英国</HostName>
+	            <HostName>19.🇬🇧英国</HostName>
 	            <HostAddress>kt.shangins.uk</HostAddress>
 		</HostEntry>
 		<HostEntry>
-	            <HostName>18.🇹🇭泰国</HostName>
+	            <HostName>20.🇹🇭泰国</HostName>
 	            <HostAddress>ec.shangins.uk</HostAddress>
 		</HostEntry>
 	</ServerList>
