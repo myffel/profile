@@ -35,11 +35,7 @@
 		<HostEntry>
 	            <HostName>01.🇺🇸美国lax-苏粤闽适用</HostName>
 	            <HostAddress>107.148.233.9</HostAddress>
-		</HostEntry>
-		<HostEntry>
-	            <HostName>02.🇺🇸美国sv</HostName>
-	            <HostAddress>sv.shangins.uk</HostAddress>
-		</HostEntry>
+		</HostEntry>		
 		<HostEntry>
 	            <HostName>03.🇺🇸美国sg</HostName>
 	            <HostAddress>sg.shangins.uk</HostAddress>
