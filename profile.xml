@@ -25,7 +25,7 @@
 
 	<ServerList>
 	    <HostEntry>
-	            <HostName>00.移动电信推荐用美国，联通推荐日本或美国wy</HostName>
+	            <HostName>00.官网shangins.com电信推荐用美国，移动联通均可</HostName>
 	            <HostAddress>oc.shangins.uk</HostAddress>
 		</HostEntry>
 		<HostEntry>
@@ -45,21 +45,21 @@
 	            <HostAddress>sg.shangins.uk</HostAddress>
 		</HostEntry>
 		<HostEntry>
-	            <HostName>04.🇺🇸美国sfo-支持AI类网站</HostName>
+	            <HostName>04.🇺🇸美国sfo-支持AI类网站-联通移动适用</HostName>
 	            <HostAddress>sfo.shangins.uk</HostAddress>
 		</HostEntry>
 		<HostEntry>
-	            <HostName>05.🇺🇸美国2国内中转-连接困难地区适用</HostName>
+	            <HostName>05.🇺🇸美国sfo-苏粤闽适用-支持AI类网站</HostName>
+	            <HostAddress>172.234.253.178</HostAddress>
+		</HostEntry>
+		<HostEntry>
+	            <HostName>06.🇺🇸美国2国内中转-连接困难地区适用</HostName>
 	            <HostAddress>sh.shangins.uk:444</HostAddress>
 		</HostEntry>
 		<HostEntry>
-	            <HostName>06.🇺🇸美国wy联通优化-支持AI类网站</HostName>
+	            <HostName>07.🇺🇸美国wy-支持AI类网站</HostName>
 	            <HostAddress>wy.shangins.uk</HostAddress>
-		</HostEntry>
-		<HostEntry>
-	            <HostName>07.🇺🇸美国wy联通优化-苏粤闽适用</HostName>
-	            <HostAddress>172.104.105.143</HostAddress>
-		</HostEntry>				
+		</HostEntry>					
 		<HostEntry>
 	            <HostName>08.🇯🇵日本1-联通移动适用-支持AI类网站</HostName>
 	            <HostAddress>edis.shangins.uk</HostAddress>
